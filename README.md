@@ -1,2 +1,9 @@
-# vue-template
-vue项目
+# {{ name }}
+> {{ description }}
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+```
